@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foken equasion", "foken equasion\foken equasion.csproj", "{47329745-C8DF-41F0-8AE1-1F711A443F00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47329745-C8DF-41F0-8AE1-1F711A443F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47329745-C8DF-41F0-8AE1-1F711A443F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47329745-C8DF-41F0-8AE1-1F711A443F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47329745-C8DF-41F0-8AE1-1F711A443F00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69FD13D6-98B1-4785-AA64-0E12FC58296D}
+	EndGlobalSection
+EndGlobal
